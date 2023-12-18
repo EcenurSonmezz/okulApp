@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qn+eEjzr8+jJ4SUy4cPIyb7qcMj94Q/sAaWA4C1T+DSAGxnRG8Hfo28qhchgyrPnmxILrmNs4SxYjNmfj9Z0qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ecenr\\source\\repos\\EcenurSonmez_OkulApp\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ecenr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ecenr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
