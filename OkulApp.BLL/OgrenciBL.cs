@@ -16,7 +16,7 @@ namespace OkulApp.BLL
                 new SqlParameter("@Soyad",ogr.Soyad),
                 new SqlParameter("@Numara",ogr.Numara)
             };
-            return hlp.ExecuteNonQuery("Insert into tblOgrenciler values(@Ad,@Soyad,@Numara)", p) > 0;
+            return hlp.ExecuteNonQuery("Insert into Ogrenci values(@Ad,@Soyad,@Numara)", p) > 0;
         }
     }
 }
