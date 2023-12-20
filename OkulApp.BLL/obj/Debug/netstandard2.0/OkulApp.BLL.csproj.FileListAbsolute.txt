@@ -1,0 +1,15 @@
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.deps.json
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.dll
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.BLL.pdb
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.DAL.dll
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.dll
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.DAL.pdb
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\bin\Debug\netstandard2.0\OkulApp.MODEL.pdb
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.AssemblyReference.cache
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfoInputs.cache
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.AssemblyInfo.cs
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.csproj.CopyComplete
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.dll
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.BLL\obj\Debug\netstandard2.0\OkulApp.BLL.pdb
