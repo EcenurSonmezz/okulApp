@@ -46,6 +46,12 @@ namespace OkulAppSube2BIL
                 MessageBox.Show("Bilinmeyen Hata!!");
             }
         }
+
+        private void BtnOgrtmenKayt_Click(object sender, EventArgs e)
+        {
+            FrmOgretmenKyt frmOgretmenKyt=new FrmOgretmenKyt();
+            frmOgretmenKyt.ShowDialog();
+        }
     }
 
 

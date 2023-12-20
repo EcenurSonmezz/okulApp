@@ -29,13 +29,14 @@
         private void InitializeComponent()
         {
             this.grpOgrenci = new System.Windows.Forms.GroupBox();
-            this.lblAd = new System.Windows.Forms.Label();
-            this.lblSoyad = new System.Windows.Forms.Label();
-            this.lblNumara = new System.Windows.Forms.Label();
-            this.txtAd = new System.Windows.Forms.TextBox();
-            this.txtSoyad = new System.Windows.Forms.TextBox();
             this.txtNumara = new System.Windows.Forms.TextBox();
+            this.txtSoyad = new System.Windows.Forms.TextBox();
+            this.txtAd = new System.Windows.Forms.TextBox();
+            this.lblNumara = new System.Windows.Forms.Label();
+            this.lblSoyad = new System.Windows.Forms.Label();
+            this.lblAd = new System.Windows.Forms.Label();
             this.btnKaydet = new System.Windows.Forms.Button();
+            this.BtnOgrtmenKayt = new System.Windows.Forms.Button();
             this.grpOgrenci.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -54,60 +55,60 @@
             this.grpOgrenci.TabStop = false;
             this.grpOgrenci.Text = "Öğrenci Bilgileri";
             // 
-            // lblAd
-            // 
-            this.lblAd.AutoSize = true;
-            this.lblAd.Location = new System.Drawing.Point(38, 63);
-            this.lblAd.Name = "lblAd";
-            this.lblAd.Size = new System.Drawing.Size(20, 13);
-            this.lblAd.TabIndex = 0;
-            this.lblAd.Text = "Ad";
-            // 
-            // lblSoyad
-            // 
-            this.lblSoyad.AutoSize = true;
-            this.lblSoyad.Location = new System.Drawing.Point(38, 89);
-            this.lblSoyad.Name = "lblSoyad";
-            this.lblSoyad.Size = new System.Drawing.Size(37, 13);
-            this.lblSoyad.TabIndex = 1;
-            this.lblSoyad.Text = "Soyad";
-            // 
-            // lblNumara
-            // 
-            this.lblNumara.AutoSize = true;
-            this.lblNumara.Location = new System.Drawing.Point(38, 115);
-            this.lblNumara.Name = "lblNumara";
-            this.lblNumara.Size = new System.Drawing.Size(44, 13);
-            this.lblNumara.TabIndex = 2;
-            this.lblNumara.Text = "Numara";
-            // 
-            // txtAd
-            // 
-            this.txtAd.Location = new System.Drawing.Point(79, 56);
-            this.txtAd.MaxLength = 20;
-            this.txtAd.Name = "txtAd";
-            this.txtAd.Size = new System.Drawing.Size(100, 20);
-            this.txtAd.TabIndex = 3;
-            // 
-            // txtSoyad
-            // 
-            this.txtSoyad.Location = new System.Drawing.Point(79, 82);
-            this.txtSoyad.MaxLength = 30;
-            this.txtSoyad.Name = "txtSoyad";
-            this.txtSoyad.Size = new System.Drawing.Size(100, 20);
-            this.txtSoyad.TabIndex = 4;
-            // 
             // txtNumara
             // 
-            this.txtNumara.Location = new System.Drawing.Point(79, 108);
+            this.txtNumara.Location = new System.Drawing.Point(93, 108);
             this.txtNumara.MaxLength = 15;
             this.txtNumara.Name = "txtNumara";
             this.txtNumara.Size = new System.Drawing.Size(100, 20);
             this.txtNumara.TabIndex = 5;
             // 
+            // txtSoyad
+            // 
+            this.txtSoyad.Location = new System.Drawing.Point(93, 82);
+            this.txtSoyad.MaxLength = 30;
+            this.txtSoyad.Name = "txtSoyad";
+            this.txtSoyad.Size = new System.Drawing.Size(100, 20);
+            this.txtSoyad.TabIndex = 4;
+            // 
+            // txtAd
+            // 
+            this.txtAd.Location = new System.Drawing.Point(93, 56);
+            this.txtAd.MaxLength = 20;
+            this.txtAd.Name = "txtAd";
+            this.txtAd.Size = new System.Drawing.Size(100, 20);
+            this.txtAd.TabIndex = 3;
+            // 
+            // lblNumara
+            // 
+            this.lblNumara.AutoSize = true;
+            this.lblNumara.Location = new System.Drawing.Point(34, 111);
+            this.lblNumara.Name = "lblNumara";
+            this.lblNumara.Size = new System.Drawing.Size(44, 13);
+            this.lblNumara.TabIndex = 2;
+            this.lblNumara.Text = "Numara";
+            // 
+            // lblSoyad
+            // 
+            this.lblSoyad.AutoSize = true;
+            this.lblSoyad.Location = new System.Drawing.Point(34, 89);
+            this.lblSoyad.Name = "lblSoyad";
+            this.lblSoyad.Size = new System.Drawing.Size(37, 13);
+            this.lblSoyad.TabIndex = 1;
+            this.lblSoyad.Text = "Soyad";
+            // 
+            // lblAd
+            // 
+            this.lblAd.AutoSize = true;
+            this.lblAd.Location = new System.Drawing.Point(34, 63);
+            this.lblAd.Name = "lblAd";
+            this.lblAd.Size = new System.Drawing.Size(20, 13);
+            this.lblAd.TabIndex = 0;
+            this.lblAd.Text = "Ad";
+            // 
             // btnKaydet
             // 
-            this.btnKaydet.Location = new System.Drawing.Point(104, 219);
+            this.btnKaydet.Location = new System.Drawing.Point(62, 224);
             this.btnKaydet.Name = "btnKaydet";
             this.btnKaydet.Size = new System.Drawing.Size(75, 23);
             this.btnKaydet.TabIndex = 6;
@@ -115,11 +116,22 @@
             this.btnKaydet.UseVisualStyleBackColor = true;
             this.btnKaydet.Click += new System.EventHandler(this.btnKaydet_Click);
             // 
+            // BtnOgrtmenKayt
+            // 
+            this.BtnOgrtmenKayt.Location = new System.Drawing.Point(143, 224);
+            this.BtnOgrtmenKayt.Name = "BtnOgrtmenKayt";
+            this.BtnOgrtmenKayt.Size = new System.Drawing.Size(75, 23);
+            this.BtnOgrtmenKayt.TabIndex = 7;
+            this.BtnOgrtmenKayt.Text = "Ogretmen Kayıt";
+            this.BtnOgrtmenKayt.UseVisualStyleBackColor = true;
+            this.BtnOgrtmenKayt.Click += new System.EventHandler(this.BtnOgrtmenKayt_Click);
+            // 
             // frmOgrKayit
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(291, 259);
+            this.Controls.Add(this.BtnOgrtmenKayt);
             this.Controls.Add(this.btnKaydet);
             this.Controls.Add(this.grpOgrenci);
             this.Name = "frmOgrKayit";
@@ -140,6 +152,7 @@
         private System.Windows.Forms.Label lblSoyad;
         private System.Windows.Forms.Label lblAd;
         private System.Windows.Forms.Button btnKaydet;
+        private System.Windows.Forms.Button BtnOgrtmenKayt;
     }
 }
 

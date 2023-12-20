@@ -1,0 +1,10 @@
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.MODEL\bin\Debug\netstandard2.0\OkulApp.MODEL.deps.json
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.MODEL\bin\Debug\netstandard2.0\OkulApp.MODEL.dll
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.MODEL\bin\Debug\netstandard2.0\OkulApp.MODEL.pdb
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.MODEL\obj\Debug\netstandard2.0\OkulApp.MODEL.csproj.AssemblyReference.cache
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.MODEL\obj\Debug\netstandard2.0\OkulApp.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.MODEL\obj\Debug\netstandard2.0\OkulApp.MODEL.AssemblyInfoInputs.cache
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.MODEL\obj\Debug\netstandard2.0\OkulApp.MODEL.AssemblyInfo.cs
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.MODEL\obj\Debug\netstandard2.0\OkulApp.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.MODEL\obj\Debug\netstandard2.0\OkulApp.MODEL.dll
+C:\Users\ecenr\source\repos\EcenurSonmez_OkulApp\OkulApp.MODEL\obj\Debug\netstandard2.0\OkulApp.MODEL.pdb
